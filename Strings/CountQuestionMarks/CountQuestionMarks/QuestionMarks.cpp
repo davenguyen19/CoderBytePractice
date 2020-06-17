@@ -6,7 +6,7 @@ string QuestionsMarks(string str) {
 
 	// code goes here 
 
-	//loop to traverse throught the array of strings
+	//loop to traverse through the array of strings
 	for (int i = 0; i < str.size() - 1; i++) {
 
 		//find first integer
